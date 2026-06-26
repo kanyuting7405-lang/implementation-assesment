@@ -1,5 +1,3 @@
-
-
 import { NextRequest, NextResponse } from "next/server";
 import type { Product, NewProductInput, ApiResponse } from "@/types";
 
